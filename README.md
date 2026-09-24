@@ -24,8 +24,6 @@ fun_fact: I turn ideas into clean, working interfaces.
 
 ## 🛠 Tech stack
 
-## 🛠 Tech stack
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass&perline=6" />
