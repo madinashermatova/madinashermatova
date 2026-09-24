@@ -24,13 +24,13 @@ fun_fact: I turn ideas into clean, working interfaces.
 
 ## 🛠 Tech stack
 
+## 🛠 Tech stack
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass&perline=6" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=5" />
-<br>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx&perline=4" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" />
 
 </div>
 
